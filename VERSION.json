@@ -1,0 +1,9 @@
+{
+  "name": "alcoa-rubberstamp",
+  "version": "1.0.0",
+  "manifest_schema": "hmic.alcoa-rubberstamp.manifest/v1",
+  "commitment_algorithm": "sgap-file-set-merkle-sha256-v1",
+  "python_requires": ">=3.10",
+  "license": "MIT",
+  "release_date": "2026-08-04"
+}
