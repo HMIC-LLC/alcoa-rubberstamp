@@ -1,0 +1,7 @@
+{
+  "schema": "hmic.sgap.prior-state/v1",
+  "source": "example public checkpoint",
+  "identifier": "replace-with-an-independently-verifiable-unpredictable-state-id",
+  "observed_at_utc": "2026-08-04T19:00:00Z",
+  "evidence_uri": "https://example.invalid/replace-with-verification-source"
+}
