@@ -1,0 +1,2 @@
+# Preserve the published fixture's exact bytes on Windows and Unix.
+examples/fixture/** -text
